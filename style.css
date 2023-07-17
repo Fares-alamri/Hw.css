@@ -1,0 +1,25 @@
+#text1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: 071e22;
+}
+
+#link1{
+    text-decoration: none;
+    background-color: blueviolet;
+}
+
+.tuwaiq{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#TuwaiqIMG{
+    text-align: center;
+}
+
+.TuwaiqAcademy{
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: underline;
+    color: 1d7874;
+
+}
